@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim Benniks</h1>
-<h3 align="center">A developer, content creator and developer advocate</h3>
+<h3 align="center">🥑 Developer advocate, 🧑‍💻 conference speaker, 👨‍🎨 content creator</h3>
 
 <p align="left"> <a href="https://twitter.com/timbenniks" target="blank"><img src="https://img.shields.io/twitter/follow/timbenniks?logo=twitter&style=for-the-badge" alt="timbenniks" /></a> </p>
 
