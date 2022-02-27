@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tim Benniks</h1>
 <h3 align="center">🥑 Developer advocate, 🧑‍💻 conference speaker, 👨‍🎨 content creator</h3>
 
-<p align="left"> <a href="https://twitter.com/timbenniks" target="blank"><img src="https://img.shields.io/twitter/follow/timbenniks?logo=twitter&style=for-the-badge" alt="timbenniks" /></a> </p>
+<div align="center">
+<a href="https://twitter.com/timbenniks" target="blank"><img src="https://img.shields.io/twitter/follow/timbenniks?logo=twitter&style=for-the-badge" alt="Twitter timbenniks" /></a>
+<a href="https://youtube.com/timbenniks" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCbQu3ix36SHZjcD57BK7KUQ?label=YOUTUBE%20SUBS&style=for-the-badge&logo=youtube" alt="YouTube Subs" /></a>
+</div>
 
 - 👨‍💻 All of my projects are available at [https://timbenniks.dev](https://timbenniks.dev)
 
