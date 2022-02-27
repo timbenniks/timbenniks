@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Vue, Nuxt, a11y, performance, jamstack**
 
-- 📫 How to reach me **timbenniks.dev@gmail.com**
+- 📫 How to reach me [https://timbenniks.dev/contact](https://timbenniks.dev/contact)
 
 - 📄 Know about my experiences [https://timbenniks.dev/about](https://timbenniks.dev/about)
 
